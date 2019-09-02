@@ -1,0 +1,17 @@
+{
+  "name": "tensorflowjs-irix",
+  "description": "Physics-like animations for pretty particles",
+  "homepage": "https://github.com/irixapp/tensorflowjs",
+  "main": [
+    "tf.min.js"
+  ],
+  "_release": "1358254c95",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e1bf0915076b23c5262c8fe571f7a9c9fdfc8bdf"
+  },
+  "_source": "https://github.com/irixapp/tensorflowjs",
+  "_target": "*",
+  "_originalSource": "https://github.com/tensorflow/tfjs"
+}
